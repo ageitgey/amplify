@@ -1,5 +1,5 @@
 ---
-title: Ea eam nibh perse, partem habemus nominavi
+title: s habemus nominavi
 date: 2016-03-08 00:00:00 Z
 layout: post
 ---
