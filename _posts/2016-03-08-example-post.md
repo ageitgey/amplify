@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Ea eam nibh perse, partem habemus nominavi
-date: '2016-03-08T00:00:00.000+00:00'
+date: 2016-03-08 00:00:00 Z
+layout: post
 ---
 
 At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.
