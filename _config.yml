@@ -1,33 +1,31 @@
-# Welcome to Amplified for Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-title: Amplify Demo Site
+---
+title: kl
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: your-email@domain.com
-description: >
-  Look how fast it is
-logo: "/assets/images/logo.jpg"
-baseurl: "/amplify" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+description: 'Look how fast it is
 
-name: 'Your Name'
-bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+'
+logo: "/assets/images/logo.jpg"
+baseurl: "/amplify"
+url: https://penyadap.github.io
+paginate: 5
+name: Your Name
+bio: 'Mea suas vituperatoribus et, virtute corpora quaestio cum ut. Ne solet nostrum
+  complectitur pri, vis ut inani populo.
+
+'
 author_image: "/assets/images/author.jpg"
 twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
+github_username: jekyll
 markdown: kramdown
-
 kramdown:
   parse_block_html: true
-
 gems:
-  - jekyll-paginate
+- jekyll-paginate

@@ -1,6 +1,7 @@
 ---
+title: M
+date: 2016-03-13 00:00:00 Z
 layout: post
-title: My New Post
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit!
