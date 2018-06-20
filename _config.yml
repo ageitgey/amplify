@@ -6,19 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Awesome Site Title
-email: your-email@domain.com
+title: Khoirul Akmal
+email: khoirulakmal.w@gmail.com
 description: >
-  Awesome site description here
+  Kumpulan tulisan yang terbuang sia-sia
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Khoirul Akmal'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  Kadang depresi, lebih sering ditemui di warung makan sekitar daerah industri atau di sekitaran wifi corner di pusat kota
 author_image: "/assets/images/author.jpg"
 twitter_username: jekyllrb
 github_username:  jekyll
