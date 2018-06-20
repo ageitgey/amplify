@@ -12,7 +12,7 @@ description: >
   Kumpulan tulisan yang terbuang sia-sia
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Khoirul Akmal'
