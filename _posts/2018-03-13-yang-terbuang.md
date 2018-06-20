@@ -5,7 +5,7 @@ title: Yang terbuang
 
 Kumpulan hal-hal yang terbuang dari hidup yang tak bermakna
 
-<amp-img width="600" height="500" layout="responsive" src="/assets/images/sampah.jpg"></amp-img>[Credit: Unsplash]
+({{ "/assets/images/post/sampah.jpg" | absolute_url }})
 
 Kita pernah termangu meratapi hujan yang kian lebat, tiap basahi sudut kota yang terasa keluh sore itu.Laku awan yang senantiasa menurunkan gemericik airnya menyadarkanmu bahwa segala sesuatu ada masanya
 
