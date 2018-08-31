@@ -1,26 +1,27 @@
 ---
 layout: post
-title: Ea eam nibh persecuti, partem habemus nominavi
+title: Fragmen tak Berujung
 ---
 
-At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.
 
-> Nec amet pericula dissentiet...
+> Hanya tulisan yang tercecar disudut kamar, tanpa makna, tanpa tujuan.
 >
-> Nam liber tritani ei, urbanitas tincidunt usu et. Odio voluptua gubergren at cum. An porro mucius tibique nam, cu usu everti dignissim assueverit. Docendi patrioque constituto te sit. Qui lorem soluta ea, commune deserunt sed id. Accusam commune cotidieque his ea.
+>
 
-Pro hinc copiosae an, ad ius salutandi expetendis. Quo suavitate intellegat forensibus an. Sonet meliore consetetur te sea, in eam decore utroque, dicat verear et sit. Pro aperiam pertinax splendide id, IUS STET ELEIFEND INTELLEGAM ID.
+<amp-img width="600" height="500" layout="responsive" src="/assets/images/post/fragmen.jpg"></amp-img>
 
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/people"></amp-img>
+Satu sore di bulan November, kau pun menepati janjimu setelah empat belas kali melalaikannya. Di sudut yang sama, tempat kita berbagi kisah-kisah menggelikan dari kehidupan yang kian mengancam.
 
-Ea ullamcorper intellegebat pri!
+Kau datang dengan tatapan yang sama sendunya tujuh tahun lalu, serta nada bicaramu yang sayu seakan menyimpan banyak duka setelah sekian lama tak terdengar.
 
-### Vix cu alienum evertitur
+Kita kembali hanyut dalam sebuah kebajikan semesta yang membekukan waktu agar kita saling bercengkrama kembali. Maka senja pun muncul, seakan menyingkap tirai-tirai nestapa yang menyelubungimu setelah perpisahan yang membuahkan lara.
 
-Mea suas vituperatoribus et, virtute corpora quaestio cum ut. Ne solet nostrum complectitur pri, vis ut inani populo. Ad eligendi vituperata sadipscing pro, ad mea modo meis philosophia, an eos consul impedit qualisque. Eruditi reprimique id eum, in tincidunt percipitur vis.
+Kitapun mengelilingi benua asing itu dengan ocehanmu tentang pengalaman pertamamu melihat paus biru yang berenang mencari kehidupan di *Byron Bay*, atau tentang gerombolan penguin yang sedang membentengi diri dari kejamnya daratan *Victoria*, serta tentang segala hal yang tidak kita bicarakan selepas perpisahan kala itu.
 
-<amp-youtube data-videoid="lBTCB7yLs8Y" layout="responsive" width="480" height="270"></amp-youtube>
+Akhirnya aku memikirkan bahwa nantinya akan ada suatu masa dimana kita tak lagi risau atas perpisahan yang mengalunkan resah atau surat-surat usang yang terlalu payah membelah lautan curam diantara kita.
 
-Ne ius nominavi verterem. Principes voluptaria pro at. Sint mediocrem cum ea, his purto dicat scaevola ad. Per quem magna gubergren id, pri in noluisse salutatus imperdiet. In postea consequat percipitur vis, nam postea commodo lobortis an, ut atqui antiopam eloquentiam eum.
+Akupun tiba-tiba sadar, ada yang berubah darimu. Ini bukan tentang cara bicaramu yang kian getir ketika aku menanyakan kapan kita bertemu lagi. Bukan pula soal caramu memakan makanan aneh itu, Ini tentang reaksimu ketika ku menanyakan pertanyaan sepele.
 
-> Erat officiis probatus eam ea, nibh legere insolens ad sit. Nec alii dicam ad, cibo regione per no. Verear invenire ut usu, nec mazim euripidis in. Molestie placerat id quo, quo dissentias complectitur ex. Ex probatus principes efficiantur pro, possit perfecto ut eum. Vix ei summo perpetua, enim adhuc vix ei, sed in homero delicata periculis. Praesent intellegat qui ne.
+"Jadi cincin itu untuk pentas apa?" Tanyaku dengan cermat sembari menunjuk sebuah cincin mungiil yang membelit jari manismu.
+
+Kau membisu, bagai senja yang kian pudar sekedar menyisakan kelabu dari langit kota yang suram dihiasi warna-warna karbon monoksida. Aku berdiam diri, menatapmu dengan tatapan dingin. Air mata mengalir di pipimu, meninggalkan jejak yang menampilkan sisi lain kehidupan.
