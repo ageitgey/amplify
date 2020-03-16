@@ -8,7 +8,12 @@ permalink: /about/
 
 Halo!
 
-Blog ini dibuat untuk membagikan tulisan yang telah saya buat dan bersifat personal. Mungkin beberapa tulisan akan terasa sangat receh saat dibaca, oleh karena itu saya berharap kritik dari kalian saat membuka blog ini.
+Nama saya Khoirul Akmal. Saya seorang pemuda asal Bekasi yang tertarik dengan dunia komputer khususnya web developer. Saya sudah terlibat dalam beberapa projek, diantaranya adalah :
+
+-Freelance sebagai penulis untuk Aidia Network (2018-2019)
+-Pembuatan web untuk Bupati Berau Bapak [Muharram Supu](muharram-supu.com) (2020)
+-Pembuatan Web untuk Bupati Tasikmalaya Bapak [Ade Sugianto](adesugianto.com) (2020)
+
 
 Untuk kritik, saran dan pertanyaan apapun kalian bisa menghubungi saya di khoirulakmal.w@gmail.com
 
