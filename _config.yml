@@ -1,0 +1,70 @@
+# Site
+name: "Khoirul Akmal"
+title: "Khoirul Akmal"
+description: ""
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
+baseurl: /jekyll-theme-memoirs
+google_analytics: '352426438'
+disqus: 'demowe#bsite'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+include: ["_pages"]
+permalink: /:title/
+email: khoirulakmal.w@gmail.com
+
+# Authors
+authors:
+  akmal:
+    name: 'Khoirul Akmal'
+    display_name: 'Khoirul Akmal'
+    avatar: 'assets/images/profil.jpg'
+    email: khoirulakmal.w@gmail.com
+    twitter: https://twitter.com/khoirulakmal_
+    description: "Suka nulis artikel receh, lebih sering ngegame daripada nulis."
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-figure
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+highlighter: none
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+
+
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"
+
+# Post Author Box ("enabled" or "disabled")
+authorbox: "disabled"
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,0 +1,7 @@
+_site
+.DS_Store
+*.swp
+.sass-cache
+*~
+.jekyll-cache
+posts/
