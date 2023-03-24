@@ -1,7 +1,13 @@
 _site
+<<<<<<< HEAD
 .DS_Store
 *.swp
 .sass-cache
 *~
 .jekyll-cache
 posts/
+=======
+.sass-cache
+.jekyll-metadata
+.DS_Store
+>>>>>>> 8dd0cd775caf32a2b5f201c9bb8ef358540e2cad

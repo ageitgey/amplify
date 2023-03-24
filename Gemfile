@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -20,3 +21,10 @@ group :jekyll_plugins do
     gem 'kramdown'
     gem 'rouge'
 end
+=======
+source 'https://rubygems.org'
+
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'jekyll-compose', group: [:jekyll_plugins]
+>>>>>>> 8dd0cd775caf32a2b5f201c9bb8ef358540e2cad

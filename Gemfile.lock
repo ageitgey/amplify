@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+<<<<<<< HEAD
     actionpack (6.0.2.2)
       actionview (= 6.0.2.2)
       activesupport (= 6.0.2.2)
@@ -144,12 +145,54 @@ GEM
       thread_safe (~> 0.1)
     unicode-display_width (1.7.0)
     zeitwerk (2.3.0)
+=======
+    addressable (2.5.0)
+      public_suffix (~> 2.0, >= 2.0.2)
+    colorator (1.1.0)
+    ffi (1.9.14)
+    ffi (1.9.14-x64-mingw32)
+    forwardable-extended (2.6.0)
+    jekyll (3.3.1)
+      addressable (~> 2.4)
+      colorator (~> 1.0)
+      jekyll-sass-converter (~> 1.0)
+      jekyll-watch (~> 1.1)
+      kramdown (~> 1.3)
+      liquid (~> 3.0)
+      mercenary (~> 0.3.3)
+      pathutil (~> 0.9)
+      rouge (~> 1.7)
+      safe_yaml (~> 1.0)
+    jekyll-compose (0.5.0)
+      jekyll (>= 3.0.0)
+    jekyll-paginate (1.1.0)
+    jekyll-sass-converter (1.5.0)
+      sass (~> 3.4)
+    jekyll-watch (1.5.0)
+      listen (~> 3.0, < 3.1)
+    kramdown (1.13.1)
+    liquid (3.0.6)
+    listen (3.0.8)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
+    mercenary (0.3.6)
+    pathutil (0.14.0)
+      forwardable-extended (~> 2.6)
+    public_suffix (2.0.4)
+    rb-fsevent (0.9.8)
+    rb-inotify (0.9.7)
+      ffi (>= 0.5.0)
+    rouge (1.11.1)
+    safe_yaml (1.0.4)
+    sass (3.4.23)
+>>>>>>> 8dd0cd775caf32a2b5f201c9bb8ef358540e2cad
 
 PLATFORMS
   ruby
   x64-mingw32
 
 DEPENDENCIES
+<<<<<<< HEAD
   bootstrap (~> 4.4.1)
   jekyll-archives
   jekyll-feed
@@ -162,3 +205,11 @@ DEPENDENCIES
 
 BUNDLED WITH
    1.17.2
+=======
+  jekyll
+  jekyll-compose
+  jekyll-paginate
+
+BUNDLED WITH
+   1.16.2
+>>>>>>> 8dd0cd775caf32a2b5f201c9bb8ef358540e2cad
